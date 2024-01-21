@@ -1,0 +1,8 @@
+print(33+3)
+print(33-3)
+print(33*3)
+print(33/3)
+print(33//3)
+print(33**3)
+print(33>>3)
+print(33+3)
